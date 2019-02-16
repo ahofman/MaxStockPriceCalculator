@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatitudeStocks", "LatitudeStocks\LatitudeStocks.csproj", "{D20270E7-C5F4-45A7-8DC5-38BE661FF973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatitudeStocks.Test", "LatitudeStocks.Test\LatitudeStocks.Test.csproj", "{72B260CB-A884-476B-BABB-95A208E96D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20270E7-C5F4-45A7-8DC5-38BE661FF973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20270E7-C5F4-45A7-8DC5-38BE661FF973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20270E7-C5F4-45A7-8DC5-38BE661FF973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20270E7-C5F4-45A7-8DC5-38BE661FF973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B260CB-A884-476B-BABB-95A208E96D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B260CB-A884-476B-BABB-95A208E96D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B260CB-A884-476B-BABB-95A208E96D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B260CB-A884-476B-BABB-95A208E96D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C46477-3510-4BF5-9AA2-851418802ECC}
+	EndGlobalSection
+EndGlobal
